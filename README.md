@@ -1,5 +1,7 @@
 # Frontend Mentor - Four card feature section
 
+Link to the website : https://front-end-mentor-jt.netlify.com/four-card/index.html 
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
